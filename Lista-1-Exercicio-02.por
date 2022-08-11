@@ -1,5 +1,5 @@
 /* Ler o raio e a altura de um cilindro e calcular o seu volume utilizando a
-fórmula volume = π x raio2 x altura. Faça também o fluxograma */
+fórmula volume = π x raio2 x altura. Faça também o fluxograma. */
 
 programa
 {
