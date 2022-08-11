@@ -1,3 +1,7 @@
+/* Ler uma temperatura em graus centígrados e apresentá-la convertida
+em graus Fahrenheit. A fórmula de conversão é F=(9xC+160)/5, onde F
+é a temperatura em Fahrenheit e C é a temperatura em centígrados. */
+
 programa
 {
 	
