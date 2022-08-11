@@ -1,3 +1,7 @@
+/* Ler as notas dos graus A e B para determinado aluno. Calcular a média
+deste aluno utilizando a fórmula usada na Unisinos: média = (GA +
+2xGB)/3, imprimir no final média do aluno. */
+
 programa
 {
 	
