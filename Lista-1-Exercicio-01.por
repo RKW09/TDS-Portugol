@@ -1,3 +1,7 @@
+/*Faça um programa para ler saldo inicial, receitas e despesas e imprimir
+o saldo final. Faça um fluxograma desse programa, incluindo uma
+condição que verifica se o saldo está negativo ou positivo.*/
+
 programa
 {
 	
